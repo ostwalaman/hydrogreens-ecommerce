@@ -7,9 +7,6 @@
 ### Sign Up Screen
 <img src="ScreenShots/iOS/Sign_Up_Screen.png" width="300" height="600">
 
-### Navigation between Login Screen & Sign Up Screen
-<img src="ScreenShots/iOS/Navigation_between_Screens.mp4" width="300" height="600">
-
 ## Android Screenshots
 
 ### Login Screen
@@ -17,6 +14,3 @@
 
 ### Sign Up Screen
 <img src="ScreenShots/Android/Sign_Up_Screen.png" width="300" height="600">
-
-### Navigation between Login Screen & Sign Up Screen
-<img src="ScreenShots/Android/Navigating_between_Screens.webm" width="300" height="600">
